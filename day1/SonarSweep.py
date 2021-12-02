@@ -1,5 +1,3 @@
-
-
 '''
 Get a list of the inpuits from a txt file
 Go through and make sure they are strings
